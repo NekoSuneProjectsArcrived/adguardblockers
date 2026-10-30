@@ -1,7 +1,7 @@
 ! Title: IP Blockers Blocklist by NekoSuneVR
-! Source: https://raw.githubusercontent.com/NekoSuneVR/adguardblockers/main/ipgrabbersblocker.txt
-! Home: https://github.com/NekoSuneVR/adguardblockers
-! Contribute: https://github.com/NekoSuneVR/adguardblockers/issues
+! Source: https://raw.githubusercontent.com/NekoSuneProjectsArcrived/adguardblockers/main/ipgrabbersblocker.txt
+! Home: https://github.com/NekoSuneProjectsArcrived/adguardblockers
+! Contribute: https://github.com/NekoSuneProjectsArcrived/adguardblockers/issues
 ! License: MIT (https://mit-license.org/)
 
 ||grabify.link^
@@ -29,3 +29,90 @@
 ||ezstat.ru^
 ||02ip.ru^
 ||iplis.ru^
+
+! Additional documented IP-grabber aliases and disguised tracking link domains
+! Sources: EsadCetiner/Grabify-Blocklist, TMAFE/anti-grabify, piperun/iploggerfilter
+! Historical aliases may be inactive. Check the AdGuard Home Query Log for false positives.
+||adfly-bot.online^
+||barefoot.pics^
+||bathtub.pics^
+||bitly-bot.com^
+||bmwforum.co^
+||catsnthing.com^
+||catsnthings.fun^
+||cheapcinema.club^
+||cliip.net^
+||crabrave.pw^
+||dateing.club^
+||discordcrypt.xyz^
+||foot.wiki^
+||fortnight.space^
+||fortnite-stats.site^
+||fortnitechat.site^
+||freegiftcards.co^
+||gamer.hair^
+||gamer.tattoo^
+||gamergirl.pro^
+||gamertag.shop^
+||gaming-at-my.best^
+||gamingfun.me^
+||grabify.icu^
+||grabify.world^
+||grabifyicu.com^
+||headshot.monster^
+||imagehost.pics^
+||imageshare.best^
+||imagevault.cloud^
+||imghost.pics^
+||ip-puller.com^
+||ip-trap.com^
+||iplist.ru^
+||iplo.ru^
+||iplogger.us^
+||joinmy.site^
+||leancoding.co^
+||linkify.me^
+||locations.quest^
+||lovebird.guru^
+||massive.boats^
+||massive.mom^
+||minecraft-skins.xyz^
+||myiptest.com^
+||mymassive.store^
+||mymassive.top^
+||mymassive.yachts^
+||mypic.icu^
+||myprivate.pics^
+||noodshare.pics^
+||partpicker.shop^
+||photovault.pics^
+||pichost.pics^
+||picshost.pics^
+||plz.life^
+||progaming.monster^
+||ps3cfw.com^
+||quickmessage.us^
+||screenshare.host^
+||screenshare.pics^
+||screenshot.best^
+||shareit.pics^
+||shhh.lol^
+||shipment.website^
+||shrekis.life^
+||skypegrab.net^
+||sportshub.bar^
+||spottyfly.com^
+||stonks.boats^
+||stonks.fun^
+||stopify.co^
+||sugma.mom^
+||thisdomainislong.lol^
+||toes.beauty^
+||toldyouso.lol^
+||toldyouso.pics^
+||trulove.guru^
+||xda-developers.us^
+||yoink.rip^
+||yourmy.monster^
+||ythingy.com^
+||yum.mom^
